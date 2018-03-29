@@ -11,7 +11,7 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 [http://www.add link to your project here.com]([http://www.add link to your project here.com)
 
 ### Description
-ello.
+Far away from the loud sounds of the bustling city, you can relax and live stress free for a week. You rent out a cabin in Grand Lake, Colorado to rid your self of the stress from your daily life. But you're not alone. The owner of the home hasn't left and creepy things start to happen. Before you know, you're trapped in the cabin with "him". Will you escape?
 
 ## Rules
 * **Do not** add or remove any files to this repo.
