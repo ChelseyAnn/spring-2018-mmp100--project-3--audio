@@ -8,10 +8,10 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 5. Edit this `README.md` file by adding a link to your project and including a description below.
 
 ### Link
-[http://www.add link to your project here.com]([http://www.add link to your project here.com)
+[http://mmp.bmcc.cuny.edu/chelsey.hill/spring-2018/mmp-100/project-3/Within-The-Cabin/](http://mmp.bmcc.cuny.edu/chelsey.hill/spring-2018/mmp-100/project-3/Within-The-Cabin/)
 
 ### Description
-Far away from the loud sounds of the bustling city, you can relax and live stress free for a week. You rent out a cabin in Grand Lake, Colorado to rid your self of the stress from your daily life. But you're not alone. The owner of the home hasn't left and creepy things start to happen. Before you know, you're trapped in the cabin with "him". Will you escape?
+My audio project is a mix of my favorite genre of movies, horror/scary. It's the sounds of what it'd be like to be in a scary/horror movie, from the footsteps to the eerie music. All of these sounds are what help to frame or personify the horror/scary movie genre.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
